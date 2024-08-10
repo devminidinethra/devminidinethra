@@ -1,3 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  .typing-container {
+    display: inline;
+    border-right: 2px solid;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: monospace;
+    font-size: 24px;
+    animation: typing 2s steps(30, end), blink-caret 0.75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: black; }
+  }
+</style>
+</head>
+<body>
+<p class="typing-container">Devmini Gamage</p>
+</body>
+</html>
 
 
 # 💫 About Me:
