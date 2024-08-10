@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Devmini Gamage
 
 # 💫 About Me:
 🚀 Currently Working On: Developing an interactive web application with real-time features<br>🔄 Looking to Collaborate On: Web development projects and real-time data handling<br>🎓 Studying: Object-Oriented Programming with Java and PHP, and HTML<br>💡 Ask Me About: Web development<br>🎉 Fun Fact: I once fixed a bug by commenting out half of the code, then uncommenting line by line until the issue resurfaced!
